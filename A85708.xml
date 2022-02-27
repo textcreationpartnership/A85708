@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general bill of mortality, of the Clergie of London, which have beene defunct by reason of the contagious breath of the sectaries of that city, from the yeere 1641. to this present yeere 1647. with the several casualties of the same. Or, A briefe martyrologie and catalogue of the learned, grave, religious and painfull ministers of the city of London, who have been imprisoned, plundered, barbarously used, and deprived of all livelyhood for themselves and their families in these last yeeres: for their constancie in the Protestant religion establisht in this kingdome,and their loyalty to their soveraigne.</title>
+            <author>Griffith, Matthew, 1599?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85708</idno>
+            <idno type="STC">Wing G2013</idno>
+            <idno type="STC">Thomason 669.f.10[103]</idno>
+            <idno type="STC">ESTC R210660</idno>
+            <idno type="EEBO-CITATION">99869437</idno>
+            <idno type="PROQUEST">99869437</idno>
+            <idno type="VID">162635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162635)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[103])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general bill of mortality, of the Clergie of London, which have beene defunct by reason of the contagious breath of the sectaries of that city, from the yeere 1641. to this present yeere 1647. with the several casualties of the same. Or, A briefe martyrologie and catalogue of the learned, grave, religious and painfull ministers of the city of London, who have been imprisoned, plundered, barbarously used, and deprived of all livelyhood for themselves and their families in these last yeeres: for their constancie in the Protestant religion establisht in this kingdome,and their loyalty to their soveraigne.</title>
+                  <author>Griffith, Matthew, 1599?-1665.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>All words in title following "London." on the titlepage are encased in a left hand curly bracket.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotations on Thomason copy: "Decemb: 21 1646"; "Supposed to be made by Griffith of maudlins ould fishstreet".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="bill_of_mortality">
+            <pb facs="tcp:162635:1" rendition="simple:additions"/>
+            <div type="part">
+               <head>
+                  <hi>London.</hi> A Generall Bill of Mortality, of the Clergie of London, which have beene defunct by reaſon of the Contagious breath of the Sectaries of that City, from the yeere 1641. to this preſent yeere 1647. with the ſeverall Caſualties of the ſame. OR, <hi>A briefe Martyrologie and Catalogue of the Learned, Grave, Religious and painfull Miniſters of the City of</hi> LONDON, <hi>who have been Impriſoned, Plundered, barbarouſly uſed, and deprived of all livelyhood for themſelves and their Families in theſe laſt yeeres: For their conſtancie in the Proteſtant Religion eſtabliſht in this Kingdome, and their Loyalty to their Soveraigne.</hi>
+               </head>
+               <p>The Cathedrall Church of Saint <hi>Pauls,</hi> The Deane, Reſidentia<g ref="char:EOLhyphen"/>ries, and other members of that Church—Sequeſtred, Plundred, and turn<g ref="char:EOLhyphen"/>ed out.</p>
+               <p>
+                  <hi>Alhallowes</hi> Woodſtreet. D. <hi>Walts</hi> ſequeſtred, plundered, his wife and children turned out of doores, himſelfe forced to fly.</p>
+               <p>
+                  <hi>Alhallowes</hi> Barking. D. <hi>Lafield</hi> Purſivanted, impriſoned in <hi>Ely</hi> houſe, and the Shippes, ſequeſtred, and plundered, afterwards for<g ref="char:EOLhyphen"/>ced to fly.</p>
+               <p>
+                  <hi>Alhallowes</hi> Breadſtreet—</p>
+               <p>
+                  <hi>Alhallowes</hi> Great—</p>
+               <p>
+                  <hi>Alhallowes</hi> Hony-lane—</p>
+               <p>
+                  <hi>Alhallowes</hi> Leſſe—</p>
+               <p>
+                  <hi>Alhall.</hi> Lumbardſtreet. M. <hi>Weſton</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Alhallowes</hi> Staining—</p>
+               <p>
+                  <hi>Alhallowes</hi> the Wall—</p>
+               <p>
+                  <hi>Alphage.</hi> D. <hi>Halye</hi> ſhamefully abuſed, his Cap pull'd off, to ſee if he were not a ſhaven Prieſt; voted our, and—<note place="margin">Dead with grief.</note>
+               </p>
+               <p>
+                  <hi>Andrew</hi> Hubbard. D. <hi>Chambers</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Andrew</hi> Underſhaft. 1. M. <hi>Maſon</hi> through ve<g ref="char:EOLhyphen"/>xation forced to reſigne. 2. M. <hi>Prichard</hi> after that Sequeſtred.</p>
+               <p>
+                  <hi>Andrew</hi> Wardrobe. D. <hi>Iſaacſon</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Anne</hi> Alderſgate. D. <hi>Clewet</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Anne</hi> Black friars—</p>
+               <p>
+                  <hi>Antholins</hi> pariſh—</p>
+               <p>
+                  <hi>Auſtins</hi> pariſh. M. <hi>Udall</hi> ſequeſtred, his bed-rid wife turn'd out of doores, and left in the ſtreets.</p>
+               <p>
+                  <hi>Bartholmew</hi> Exchange. D. <hi>Grant</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Bennet</hi> Fynck. m. <hi>Warfield</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Bennet</hi> Grace-church. M. <hi>Quelch</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Bennet</hi> Pauls-wharfe. M. <hi>Adams</hi> ſequeſtred.<note place="margin">Dead with grief.</note>
+               </p>
+               <p>
+                  <hi>Bennet</hi> Sheerhog. M. <hi>Morgan</hi>—</p>
+               <p>
+                  <hi>Botolph</hi> Billingſgate. M. <hi>King</hi> ſequeſtred and forc'd to fly.</p>
+               <p>
+                  <hi>Chriſt-church.</hi> turn'd out, and—<note place="margin">Dead</note>
+               </p>
+               <p>
+                  <hi>Chriſtophers.</hi> M. <hi>Hanſlowe</hi> forc'd to reſigne.</p>
+               <p>
+                  <hi>Clement</hi> Eaſt cheap. M. <hi>Stone</hi> ſhamefully abu<g ref="char:EOLhyphen"/>ſed, ſequeſtred, ſent Priſoner to <hi>Plymouth,</hi> and plundered.</p>
+               <p>
+                  <hi>Dionys</hi> Back-church. M., <hi>Humes</hi> ſequeſtred and abuſed.</p>
+               <p>
+                  <hi>Dunſtans</hi> Eaſt. D. <hi>Childerley</hi> reviled, abuſed, &amp;<note place="margin">dead.</note>
+               </p>
+               <p>
+                  <hi>Edmonds</hi> Lumbardſtreet. M. <hi>Paget</hi> moleſted, ſi<g ref="char:EOLhyphen"/>lenced, and—<note place="margin">dead.</note>
+               </p>
+               <p>
+                  <hi>Ethelborough.</hi> M. <hi>Clarke</hi> ſequeſtred, impriſoned.</p>
+               <p>
+                  <hi>Faiths.</hi> D. <hi>Browne</hi> ſequeſtred, and—<note place="margin">dead.</note>
+               </p>
+               <p>
+                  <hi>Foſters.</hi> M. <hi>Batty</hi> ſequeſtred, plundered, forced to fly, and—<note place="margin">dead.</note>
+               </p>
+               <p>
+                  <hi>Gabriel</hi> Fenchurch. M. <hi>Cooke</hi> ſequeſtred.</p>
+               <p>
+                  <hi>George</hi> Botolph-lane. D. <hi>Styles</hi> forced to re<g ref="char:EOLhyphen"/>ſigne.</p>
+               <p>
+                  <hi>Gregories</hi> by S. Pauls. D. <hi>Styles</hi> forced to re<g ref="char:EOLhyphen"/>ſigne.</p>
+               <p>
+                  <hi>Hellens.</hi> M. <hi>Miller</hi> turn'd out.—<note place="margin">dead.</note>
+               </p>
+               <p>
+                  <hi>James</hi> Dukes place. M. ſequeſtred.</p>
+               <p>
+                  <hi>James</hi> Garlick<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hythe. 1. M. <hi>Freeman</hi> plunde<g ref="char:EOLhyphen"/>red, and ſequeſtred. 2. M. <hi>Anthony</hi> his Curate turned out.</p>
+               <p>
+                  <hi>John Baptiſt.</hi> M. <hi>Weemſly</hi> ſequeſtred.</p>
+               <p>
+                  <hi>John Evangeliſt</hi>—</p>
+               <p>
+                  <hi>John Zachary.</hi> M. <hi>Eldlyn</hi> ſequeſtred, forc'd to fly, and plundered.</p>
+               <p>
+                  <hi>Katherine Coleman.</hi> 1. D. <hi>Hill</hi> forc'd to reſign. 2. M. <hi>Kibbutts</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Katherine</hi> Cree-church. M. <hi>Ruſh</hi> turn'd out.</p>
+               <p>
+                  <hi>Laurence</hi> Jury. M. <hi>Crane</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Laurence</hi> Pountney—</p>
+               <p>
+                  <hi>Leonard</hi> Eaſtcheap. M. <hi>Calfe</hi> forced to give up to M. <hi>Roborow,</hi> Scribe to the Aſſembly.</p>
+               <p>
+                  <hi>Leonard</hi> Foſterlane. M. <hi>Ward</hi> forc'd to fly, plun<g ref="char:EOLhyphen"/>dered, ſequeſtred, and—<note place="margin">Dead for want of ne<g ref="char:EOLhyphen"/>ceſſa<g ref="char:EOLhyphen"/>ryes.</note>
+               </p>
+               <p>
+                  <hi>Margaret</hi> Lothbury. M. <hi>Tabor</hi> plundered, im<g ref="char:EOLhyphen"/>priſoned in the Kings Bench, his wife and children turn'd out of doores at midnight, and he ſequeſtred.</p>
+               <p>
+                  <hi>Margaret</hi> Moſes—</p>
+               <p>
+                  <hi>Margaret</hi> New Fiſhſtreet. M. <hi>Pory</hi> forc'd to fly, plundered and ſequeſtred.</p>
+               <p>
+                  <hi>Margaret</hi> Pattons. m. <hi>Meggs</hi> plundered, impri<g ref="char:EOLhyphen"/>ſoned in <hi>Ely</hi> houſe, and ſequeſtred.</p>
+               <p>
+                  <hi>Mary</hi> Abchurch. M. <hi>Stone</hi> plundered, ſent pri<g ref="char:EOLhyphen"/>ſoner by ſea to <hi>Plymouth,</hi> and ſequeſtred.</p>
+               <p>
+                  <hi>Mary</hi> Aldermanbury—</p>
+               <p>
+                  <hi>Mary</hi> Aldermary. M. <hi>Browne</hi> forced to for<g ref="char:EOLhyphen"/>ſake it.</p>
+               <p>
+                  <hi>Mary</hi> le Bow. M. <hi>Leech</hi> ſequeſtred, and—<note place="margin">Dead with grief.</note>
+               </p>
+               <p>
+                  <hi>Mary</hi> Bothaw. M. <hi>Proctour</hi> forced to fly, and ſe<g ref="char:EOLhyphen"/>queſtred.</p>
+               <p>
+                  <hi>Mary</hi> Cole-church—</p>
+               <p>
+                  <hi>Mary</hi> Hill. 1. D. <hi>Baker</hi> ſequeſtred, Purſivant<g ref="char:EOLhyphen"/>ed, and impriſoned. 2. M. <hi>Woodcock</hi> turn'd out, and forc'd to fly.</p>
+               <p>
+                  <hi>Mary</hi> Mounthaw. M. <hi>Thrall</hi> ſequeſtred, and ſhamefully abuſed.</p>
+               <p>
+                  <hi>Mary</hi> Sommerſet. M. <hi>Cooke</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Mary</hi> Stainings—</p>
+               <p>
+                  <hi>Mary</hi> Woolchurch. M. <hi>Tireman</hi> forc'd to for<g ref="char:EOLhyphen"/>ſake it.</p>
+               <p>
+                  <hi>Mary</hi> Woolnoth. M. <hi>Shute</hi> moleſted, and vext<note place="margin">dead.</note> to death, and denyed a Funeral Sermon to be preach'd by D. <hi>Holdſworth,</hi> as he deſired.</p>
+               <p>
+                  <hi>Martins</hi> Ironmongerlane. M. <hi>Sparke</hi> ſequeſtred and plundred.</p>
+               <p>
+                  <hi>Martins</hi> Ludgate. D. <hi>Jermin</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Martins</hi> Orgars. D. <hi>Walton</hi> aſſaulted, ſequeſtred, plundred, forc'd to fly. M. <hi>Moſſe</hi> his Curate turn'd out.</p>
+               <p>
+                  <hi>Martins</hi> Outwich. D. <hi>Pierce</hi> ſequeſtred, and—<note place="margin">dead</note>
+               </p>
+               <p>
+                  <hi>Martins</hi> Vintry. D. <hi>Rives</hi> ſequeſtred, plundred, and forc'd to fly.</p>
+               <p>
+                  <hi>Mathew</hi> Fridayſtreet. M. <hi>Cheſtlen</hi> violently aſ<g ref="char:EOLhyphen"/>ſaulted in his houſe, impriſoned in the Comp<g ref="char:EOLhyphen"/>ter, thence ſent to Colcheſter Gaole in Eſ<g ref="char:EOLunhyphen"/>ſex, ſequeſtred and plundred.</p>
+               <p>
+                  <hi>Maudlins</hi> milkſtreet. M. <hi>Jones</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Maudlins</hi> Old-fiſhſtreet. D. <hi>Griffith</hi> ſequeſtred, plundered, impriſoned in Newgate, when being let out, he was forced to fly.</p>
+               <p>
+                  <hi>Michael</hi> Baſſiſhaw. D. <hi>Gifford</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Michael</hi> Cornhill. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. D. <hi>Brough</hi> ſequeſtred, plun<g ref="char:EOLhyphen"/>dred,<note place="margin">Dead with grief.</note> wife and children turn'd out of doors. His wife—2. M. <hi>Weld</hi> his Curate aſſaulted, beaten in the Church, and turned out.</p>
+               <p>
+                  <hi>Michael</hi> Crooked lane—</p>
+               <p>
+                  <hi>Michael</hi> Queenhithe. M. <hi>Hill</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Michael</hi> Querne. M. <hi>Launes</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Michael</hi> Royall. M. <hi>Proctour</hi> ſequeſtred, and forc'd to fly.</p>
+               <p>
+                  <hi>Michael</hi> Woodſtreet—</p>
+               <p>
+                  <hi>Mildred</hi> Breadſtreet. M. <hi>Bradſhaw</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Mildred</hi> Poultry. M. <hi>Maden</hi> ſequeſtred, and gone beyond ſea.</p>
+               <p>
+                  <hi>Nicholas</hi> Acons. M. <hi>Bennet</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Nicholas</hi> Coleabby. M. <hi>Chibbald</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Nicholas</hi> Olaves. D. <hi>Cheſhire</hi> moleſted, and for<g ref="char:EOLhyphen"/>ced to reſigne.</p>
+               <p>
+                  <hi>Olaves</hi> Hart-ſtreet. M. <hi>Haines</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Olaves</hi> Jewry. M. <hi>Tuke</hi> ſequeſtred, plundred, and impriſoned.</p>
+               <p>
+                  <hi>Olaves</hi> Silverſtreet. D. <hi>Booſye</hi> abuſed and—<note place="margin">Dead with grief.</note>
+               </p>
+               <p>
+                  <hi>Pancras</hi> Soperlane. M. <hi>Eccop</hi> ſequeſtred, plun<g ref="char:EOLhyphen"/>dred, forc'd to fly, wife and children turn'd out of doores.</p>
+               <p>
+                  <hi>Peters</hi> Cheap. M. <hi>Vochier</hi> ſequeſtred: and—<note place="margin">Dead with grief.</note>
+               </p>
+               <p>
+                  <hi>Peters</hi> Cornhill. D. <hi>Fairfax</hi> ſequeſtred, plun<g ref="char:EOLhyphen"/>dred, impriſoned in <hi>Ely</hi> houſe, and the ſhips, his wife and children turned out of doores.</p>
+               <p>
+                  <hi>Peters</hi> Pauls wharfe. M. <hi>Marbury</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Peters</hi> Poore. D. <hi>Holdſworth</hi> ſequeſtred, plun<g ref="char:EOLhyphen"/>dred, impriſoned in <hi>Ely</hi> houſe, then in the Tower.</p>
+               <p>
+                  <hi>Stephens</hi> Colemanſtreet—</p>
+               <p>
+                  <hi>Stephens</hi> Wallbrooke. D. <hi>Howell</hi> through vexa<g ref="char:EOLhyphen"/>tion forc'd to forſake it, ſequeſtred of all, and fled. <hi>Divers ſince turn'd out.</hi>
+               </p>
+               <p>
+                  <hi>Swithins.</hi> M. <hi>Owen</hi> ſequeſtred.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>homas</hi> Apoſtle. M. <hi>Cooper</hi> ſequeſtred, plunde<g ref="char:EOLhyphen"/>red, ſent Priſoner to <hi>Leeds</hi> Caſtle in <hi>Kent.</hi>
+                  <note place="margin">Dead with grief.</note>
+               </p>
+               <p>
+                  <hi>Trinity</hi> pariſh. M. <hi>Harriſon</hi>—</p>
+               <p>
+                  <hi>In the 97. Pariſhes within the Walls, beſides S.</hi>
+                  <note place="margin">dead. 16.</note> Pauls,—outed—85—</p>
+            </div>
+            <div type="part">
+               <head>Pariſhes without the Walls.</head>
+               <p>
+                  <hi>Andrew</hi> Holborne. D. <hi>Hacket</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Bartholmews</hi> Great. D. <hi>Weſtfield</hi> abuſed in the ſtreets, ſequeſtred, forc'd to fly, and—<note place="margin">dead.</note>
+               </p>
+               <p>
+                  <hi>Bartholom<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w</hi> Leſſe—</p>
+               <p>
+                  <hi>Brides</hi> pariſh. maſter <hi>Palmer</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Bridewell</hi> Precinct. maſter <hi>Browne</hi> turn'd out.</p>
+               <p>
+                  <hi>Botolph</hi> Alderſgate. maſter <hi>Booth</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Botolph</hi> Aldgate. maſter <hi>Swadlin</hi> ſequeſtred, plundred, impriſoned at <hi>Greſham</hi> Colledge and <hi>Newgate,</hi> his wife and children turned out of doores.</p>
+               <p>
+                  <hi>Botolph</hi> Biſhopsgate. maſter <hi>Rogers</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Dunſtans</hi> Weſt. D. <hi>Marſh</hi> ſequeſtred, and—<note place="margin">Dead in re<g ref="char:EOLhyphen"/>mote parts.</note>
+               </p>
+               <p>
+                  <hi>George</hi> Southwarke, maſter ſequeſtred.</p>
+               <p>
+                  <hi>Giles</hi> Cripplegate. 1. D. <hi>Fuller</hi> ſequeſtred, plundred, impriſoned at <hi>Ely</hi> houſe. 2. M. <hi>Hutton</hi> his Curate aſſaulted in the Church, and impriſoned.</p>
+               <p>
+                  <hi>Olaves</hi> Southwark. D. <hi>Turner</hi> ſequeſtred, plun<g ref="char:EOLhyphen"/>dred, fetcht up Priſoner with a Troop of Souldiers, and after forc'd to fly.</p>
+               <p>
+                  <hi>Saviours</hi> Southwarke—</p>
+               <p>
+                  <hi>Sepulchres</hi> pariſh. maſter <hi>Pigot</hi> the Lecturer turn'd out.</p>
+               <p>
+                  <hi>Thomas</hi> Southwark. maſter <hi>Spencer</hi> ſequeſtred and impriſoned.</p>
+               <p>
+                  <hi>Trinity</hi> minories—</p>
+               <p>
+                  <hi>In the 16. pariſhes without the walls,</hi>—<note place="margin">dead. 2.</note>—<hi>outed</hi>—14—</p>
+            </div>
+            <div type="part">
+               <head>In the 10. Out-pariſhes.</head>
+               <p>
+                  <hi>Clement</hi> Danes. D. <hi>Dukeſon</hi> ſequeſtred, plun<g ref="char:EOLhyphen"/>dred, forc'd to fly.</p>
+               <p>
+                  <hi>Covent</hi> garden. maſter <hi>Hall</hi> ſequeſtred, and forc'd to fly.</p>
+               <p>
+                  <hi>Ci<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> in the Fields. D. <hi>Heiwood</hi> ſequeſtred, im<g ref="char:EOLhyphen"/>priſoned in the Compter, <hi>Ely</hi> houſe; &amp; the Ships, forc'd to fly, his wife and children turn'd out of doores.</p>
+               <p>
+                  <hi>James</hi> Clarkenwell—</p>
+               <p>
+                  <hi>Katherine</hi> Tower—</p>
+               <p>
+                  <hi>Leonard</hi> Shoreditch. maſter <hi>Squire</hi> ſequeſtred, impriſoned in <hi>Greſham</hi> Colledge, Newgate, and the Kings Bench, his wife and children<note place="margin">Dead in re<g ref="char:EOLhyphen"/>mote parts.</note> plundred and turn'd out of doores.</p>
+               <p>
+                  <hi>martins</hi> in the fields. D. <hi>Bray</hi> ſequeſtred impri<g ref="char:EOLhyphen"/>ſoned, plundred, forc'd to fly, and—</p>
+               <p>
+                  <hi>mary</hi> Whitechappell. D. <hi>Johnſon</hi> ſequeſtred.</p>
+               <p>
+                  <hi>magdalen</hi> Bermondſey. D. <hi>Paske</hi> ſequeſtred.<note place="margin">Dead in re<g ref="char:EOLhyphen"/>mote parts.</note>
+               </p>
+               <p>
+                  <hi>Savoy.</hi> 1. D. <hi>Balcanquel</hi> ſequeſtred, plundred, forc'd to fly, and—2. maſter <hi>Fuller</hi> forc'd to fly.</p>
+               <p>
+                  <hi>In the 10. Out-pariſhes.—outed</hi> 9.—<note place="margin">ded. 2</note>
+               </p>
+            </div>
+            <div type="part">
+               <head>In the adjacent Townes.</head>
+               <p>The Deane and all the Prebends of the Abby-Church <hi>Weſtm.</hi> (but onely D. <hi>Lambert Osbaſton</hi>) ſequeſtred.</p>
+               <p>
+                  <hi>margarets</hi> Weſtminſter. Doctor <hi>Wimberly</hi> ſe<g ref="char:EOLhyphen"/>queſtred.</p>
+               <p>
+                  <hi>Lambeth.</hi> D. <hi>Featly</hi> ſequeſtred, plundred, im<g ref="char:EOLhyphen"/>priſoned, and—<note place="margin">Dead a pri<g ref="char:EOLhyphen"/>ſoner.</note>
+               </p>
+               <p>
+                  <hi>Newington.</hi> maſter <hi>Heath</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Hackney.</hi> maſter <hi>Moore</hi> ſequeſtred.</p>
+               <p>
+                  <hi>Reddriffe</hi>—</p>
+               <p>
+                  <hi>Iſlington.</hi> Divers miniſters turned out.</p>
+               <p>
+                  <hi>Stepney.</hi> D. <hi>Stampe</hi> ſequeſtred, plundred, and forc'd to fly.</p>
+               <p>
+                  <hi>In the adjacent Townes, beſides thoſe of the Abby Church, and Iſlington,—outed</hi> 7—<note place="margin">dead. 1.</note>
+               </p>
+            </div>
+            <div type="part">
+               <p>The totall of the Miniſters of London within the Bills of mortality, (beſides <hi>Pauls</hi> and <hi>Weſtminſter</hi>) turn'd out of their Livings by Sequeſtration and otherwiſe,—115.</p>
+               <p>Whereof Doctors in Divinity, above—40.</p>
+               <p>And the moſt of them Plundred of their goods, and their wives and children turned out of doores.</p>
+               <p>Impriſoned in London, and in the Ships, and in ſeverall Gaoles and Caſtles in the Country,—20.</p>
+               <p>Fled to prevent impriſonment,—25.</p>
+               <p>Dead in remote parts, and in Priſons, and with griefe,—22.</p>
+               <p>About 40. Churches now void, having no conſtant miniſter in them.</p>
+               <epigraph>
+                  <q>Uſque quo Domine?</q>
+                  <bibl>Rev. 6. 10.</bibl>
+                  <bibl>2 Chron. 13. 9.</bibl>
+                  <q>Have ye not caſt out the Prieſts of the Lord, the ſonnes of Aaron, and the Levites, and have made you Prieſts after the manner of the Nations of other Lands? ſo that whoſoever commeth to conſecrate himſelfe with a young bullock, and ſeven rammes, the ſame may be a Prieſt of no gods.</q>
+                  <bibl>2 Chron. 36. 16.</bibl>
+                  <q>But they mocked the meſſengers of God, and deſpiſed his words, and miſuſed his Prophets, untill the wrath of the Lord roſe againſt his people, till there was no remedy.</q>
+                  <bibl>Luke 6. 22, 23.</bibl>
+                  <q>
+                     <hi>Bleſſed are you, when men ſhall hate you, and when they ſhall ſeparate you, (<gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, ſhall ſequeſter you) and ſhall reproach you, and caſt out your name as evill (<gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, as malignant) for the Sonne of mans ſake. Rejoyce ye in that day, and leap for joy, for behold your reward is great in heaven, for accor<g ref="char:EOLhyphen"/>ding to theſe things did their Fathers to the Prophets.</hi>
+                  </q>
+                  <bibl>Phil. 1. 28, 29.</bibl>
+                  <q>In nothing be ye terrified by your adverſaries; which to them is an evident token of perdition, but to you of ſalvation, and that of God. For unto you the grace is given in the behalfe of Chriſt, not onely to beleeve on him, but alſo to ſuffer for his ſake.</q>
+                  <bibl>2 Tim. 4. 3.</bibl>
+                  <q>For the time will be, when they will not endure wholſome doctrine; but having itching eares, ſhall heap to themſelves Teachers according to their own private luſts.</q>
+                  <bibl>1 Pet. 4. 16, 17, 18.</bibl>
+                  <q>If any man ſuffer as a Chriſtian, let him not be aſhamed, but let him glorifie God in this behalf. For the time is come, that judgement muſt begin at the houſe of God: and if it firſt begin at us, what ſhall the end be of them that obey not the Goſpel of God? And if the juſt man be ſaved with difficulty, where ſhall the ungodly and the ſinner appeare?</q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
